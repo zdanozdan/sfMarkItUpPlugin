@@ -1,0 +1,3 @@
+[submodule "web/markitup"]
+	path = web/markitup
+	url = git@github.com:zdanozdan/markitup.git
